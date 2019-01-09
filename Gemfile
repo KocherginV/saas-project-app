@@ -40,6 +40,7 @@ gem 'devise-bootstrap-views'
 gem 'bootstrap-datepicker-rails'
 gem 'jquery-rails'
 gem 'aws-sdk'
+gem 'stripe'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
